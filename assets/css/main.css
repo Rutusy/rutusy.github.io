@@ -3783,3 +3783,14 @@ input, select, textarea {
 			}
 
 		}
+
+/* Custom */
+
+.main .special > li {
+    border-radius: 0.2em;
+    padding: 0.6em;
+    text-align: center;
+    display: inline;
+    padding-left: 0.5em;
+    font-weight: 600;
+}
