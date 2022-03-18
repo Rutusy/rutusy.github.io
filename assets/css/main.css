@@ -3786,7 +3786,7 @@ input, select, textarea {
 
 /* Custom */
 
-.main .special > li {
+.customul > li {
     border-radius: 0.2em;
     padding: 0.6em;
     text-align: center;
